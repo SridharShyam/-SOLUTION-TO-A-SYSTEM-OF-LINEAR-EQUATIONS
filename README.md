@@ -1,7 +1,7 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
-## NAME: SHYAM S
-## REF.NO: 23012478
-## DEPARTMENT: AI&ML
+### NAME: SHYAM S
+### REF.NO: 23012478
+### DEPARTMENT: AI&ML
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
